@@ -1,0 +1,18 @@
+.scale {
+  height: 83vh;
+  width: 100%;
+}
+.main-box{
+  height: 75%;
+  width: 25%;
+  border: solid;
+  border-width: 1px;
+  border-color: black;
+  margin: auto;
+  margin-top: 16vh;
+  border-radius: 5px;
+}
+
+.what-article{
+  
+}
